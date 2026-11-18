@@ -1,4 +1,4 @@
-👋 Hey, I'm [Your Name]
+👋 Hey, I'm Rajnish Kumar
 🚀 AI Entrepreneur | Founder Mindset | AI Innovator | Building the Future with Intelligence
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 🧠 About Me
 
-I'm an AI Entrepreneur passionate about transforming ambitious ideas into intelligent, scalable, and impactful solutions.
+I'm a student passionate about transforming ambitious ideas into intelligent, scalable, and impactful solutions.
 
 I believe Artificial Intelligence is more than just technology — it's an opportunity to rethink how businesses operate, how people work, and how the future is built.
 
@@ -76,7 +76,7 @@ I'm always interested in connecting with ambitious founders, developers, AI enth
 
 💼 LinkedIn: Connect with me
 🌐 Portfolio: Explore my work
-📧 Email: YOUR_EMAIL
+📧 Email: _
 🐙 GitHub: Follow my journey
 
 <p align="center">
