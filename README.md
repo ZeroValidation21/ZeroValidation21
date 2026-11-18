@@ -1,93 +1,41 @@
-👋 Hey, I'm Rajnish Kumar
-🚀 AI Entrepreneur | Founder Mindset | AI Innovator | Building the Future with Intelligence
+About Me 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Turning+Ideas+Into+Innovation;Automating+Tomorrow%2C+Today;Creating+Impact+Through+Artificial+Intelligence" alt="Typing SVG" />
-</p>
+<h3 align="center">
+  Python Developer | AI & Software Engineering Enthusiast
+</h3><p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Exploring+Artificial+Intelligence;Building+Automation+Projects;Learning+Full-Stack+Development;Turning+Ideas+Into+Software" alt="Typing SVG" />
+  </a>
+</p>I'm a student passionate about software engineering, Python, artificial intelligence, and building technology that solves real-world problems.
 
-🧠 About Me
+I enjoy understanding how things work, developing problem-solving skills, and turning ideas into practical software projects.
 
-I'm a student passionate about transforming ambitious ideas into intelligent, scalable, and impactful solutions.
+What I'm Working On
 
-I believe Artificial Intelligence is more than just technology — it's an opportunity to rethink how businesses operate, how people work, and how the future is built.
+- 🐍 Python Development: Strengthening Python fundamentals, OOP, problem-solving, scripting, and automation.
+- 
+- 🤖 Artificial Intelligence: Exploring AI, Machine Learning, and intelligent applications.
+- 
+- 🌐 Web Development: Learning HTML, CSS, JavaScript, Flask, and Django.
+- 
+- 🗄️ Databases: Exploring SQL, MySQL, and database management.
+- 
+- ⚙️ Software Engineering: Learning Git, GitHub, APIs, debugging, and software architecture.
+- 
+- 🚀 Building Projects: Developing practical projects and exploring ideas for future software products.
 
-🚀 Exploring the intersection of AI, Business & Innovation
-🤖 Building intelligent products and AI-powered solutions
-💡 Turning complex problems into practical opportunities
-📈 Interested in AI startups, automation, and scalable businesses
-🌍 Driven by innovation, creativity, and entrepreneurial thinking
-🎯 Focused on building technology that creates real-world impact
+Current Focus
 
-My mission: Build meaningful AI solutions that make businesses smarter, workflows faster, and possibilities limitless.
+- Mastering Python and software engineering fundamentals.
+- Developing real-world projects independently.
+- Learning how modern AI applications are built.
+- Exploring automation and full-stack development.
 
-⚡ My Core Interests
-Area	Focus
-🤖 Artificial Intelligence	AI-powered innovation
-🧠 Generative AI	LLMs, AI agents & intelligent systems
-🚀 Entrepreneurship	Startups, products & business growth
-⚙️ Automation	Intelligent workflows & productivity
-💻 Technology	Software, APIs & scalable systems
-📊 Innovation	Future-focused problem solving
-🛠️ Technologies & Tools
+My Philosophy
 
-AI & Machine Learning
+«Learn deeply. Build consistently. Solve meaningful problems.»
 
-Generative AI
-Large Language Models (LLMs)
-AI Agents
-Prompt Engineering
-Machine Learning
+Connect With Me
 
-Development & Automation
-
-Python
-JavaScript
-Git & GitHub
-APIs
-Automation Tools
-
-Business & Innovation
-
-AI Product Development
-Startup Strategy
-Business Automation
-Product Thinking
-Digital Innovation
-🚀 What I'm Building
-🤖 Exploring next-generation AI-powered products
-⚡ Developing smarter business automation solutions
-🧠 Experimenting with intelligent AI agents
-💡 Turning innovative concepts into real-world projects
-🌐 Exploring opportunities at the intersection of AI and entrepreneurship
-📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-🌐 Let's Connect & Collaborate
-
-I'm always interested in connecting with ambitious founders, developers, AI enthusiasts, innovators, and people building something meaningful.
-
-💼 LinkedIn: Connect with me
-🌐 Portfolio: Explore my work
-📧 Email: _
-🐙 GitHub: Follow my journey
-
-<p align="center">
-### 💭 My Philosophy
-**"Don't just adapt to the future. Build it with AI."**
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-⭐ If you find my work interesting, consider following me and exploring my repositories.
-</p>
+- 📧 Email: zerovalidation21@gmail.com
+- 💻 GitHub: "@ZeroValidation21" (https://github.com/ZeroValidation21)
